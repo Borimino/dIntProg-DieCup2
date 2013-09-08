@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=sides
+comment0.target=Die(int)
+comment0.text=\n\ constructor\n
+comment1.params=
+comment1.target=void\ roll()
+comment1.text=\n\ obtain\ a\ new\ number\ of\ eyes\ for\ this\ die\n
+comment2.params=
+comment2.target=int\ getEyes()
+comment2.text=\n\ \=\ the\ number\ of\ eyes\ of\ this\ die\n
+numComments=3

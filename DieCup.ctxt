@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DieCup()
+comment1.params=
+comment1.target=void\ roll()
+comment2.params=
+comment2.target=int\ getEyes()
+comment3.params=
+comment3.target=int\ getHighest()
+comment4.params=
+comment4.target=void\ resetHighest()
+numComments=5
